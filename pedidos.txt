@@ -1,0 +1,4 @@
+Pedido: 1001
+Cliente: cami rami
+Canal: WEB
+Importe: 133000
